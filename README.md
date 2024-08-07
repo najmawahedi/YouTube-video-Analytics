@@ -1,7 +1,7 @@
  ## YouTube Video Analytics Project
 
 ### Files
-- [SQL Data File](path/to/your/sqlfile.sql)
+- [[SQL Data File](https://github.com/najmawahedi/YouTube-video-Analytics/blob/main/CAvideos%20analysis.sql)]
 - [CSV Data Files](path/to/your/csvfile.csv)
 - [Tableau Workbook](path/to/your/tableaufile.twbx)
 
